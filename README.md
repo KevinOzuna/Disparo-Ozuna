@@ -1,2 +1,2 @@
 # Disparos+Ozuna
- Desafio Kevin Ozuna Ramos
+ Entrega Desafio: Disparos temporizados
