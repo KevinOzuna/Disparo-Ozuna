@@ -1,2 +1,2 @@
-# Disparos+Ozuna
- Entrega Desafio: Disparos temporizados
+# Disparos-Ozuna
+ Desafío: Disparos temporizados
